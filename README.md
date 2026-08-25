@@ -136,7 +136,6 @@ The custom `SmallUNet` contains two encoder stages, a bottleneck, two decoder st
 ## Project information
 
 - **Project lead:** Rijan Bhattarai
-- **Section:** AI5
 - **Dataset:** RIDER Lung CT data with manually prepared segmentation masks
 
 ## Limitations
