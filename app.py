@@ -15,7 +15,7 @@ from train import IMAGE_SIZE, SmallUNet, normalize_ct
 
 
 APP_DIR = Path(__file__).resolve().parent
-MODEL_PATH = APP_DIR / "best_model.pt"
+MODEL_PATH = APP_DIR / "lung_tumor_unet_best.pt"
 WINDOW_MIN = -1024.0
 WINDOW_MAX = 600.0
 THRESHOLD = 0.5
